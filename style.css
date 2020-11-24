@@ -61,3 +61,27 @@ p{
     margin-top: 15px;
     color: orangered;
 }
+
+
+@media only screen and (max-width:425px){
+    .container button {
+        width: 60%;
+    }
+    .container .content img {
+        width: 80px;
+        float: left;
+        transform: scale(1.1) ;
+        margin-right: 8px;
+    }
+        
+}
+@media only screen and (max-width:375px){
+    .content p:last-child{
+        font-size: 1.3rem;
+    }
+} 
+@media only screen and (max-width:320px){
+    .content p:last-child{
+        font-size: 1.3rem;
+    }
+}   
