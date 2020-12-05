@@ -10,7 +10,7 @@
 
 * ✅ HTML
 * ✅ CSS
-* ✅ CSS
+* ✅ JavaScript
 
 <br>
 <h2> 💻📲 Como usar 💻📲 </h2>
